@@ -1,0 +1,21 @@
+ID,Name,Mobile,Email,Age,Gender,City,State,Pincode,Occupation,Salary
+1001,Rahul Sharma,9876543210,rahul@example.com,24,Male,Pune,Maharashtra,411001,Developer,45000
+1002,Amit Patil,9123456780,amit@example.com,27,Male,Mumbai,Maharashtra,400001,Engineer,52000
+1003,Sneha Joshi,9988776655,sneha@example.com,23,Female,Nashik,Maharashtra,422001,Analyst,38000
+1004,Rohit More,9012345678,rohit@example.com,29,Male,Nagpur,Maharashtra,440001,Manager,65000
+1005,Priya Shah,9345678901,priya@example.com,25,Female,Pune,Maharashtra,411002,Tester,42000
+1006,Akash Verma,8899776655,akash@example.com,26,Male,Delhi,Delhi,110001,Developer,48000
+1007,Neha Kulkarni,9765432109,neha@example.com,22,Female,Pune,Maharashtra,411003,Student,18000
+1008,Vikas Singh,9098765432,vikas@example.com,31,Male,Jaipur,Rajasthan,302001,Engineer,58000
+1009,Pooja Deshmukh,9876123450,pooja@example.com,28,Female,Aurangabad,Maharashtra,431001,Accountant,44000
+1010,Karan Mehta,9988112233,karan@example.com,30,Male,Ahmedabad,Gujarat,380001,Manager,72000
+1011,Anjali Pawar,9123456789,anjali@example.com,24,Female,Satara,Maharashtra,415001,Designer,36000
+1012,Sachin Jadhav,9345612789,sachin@example.com,32,Male,Kolhapur,Maharashtra,416001,Engineer,61000
+1013,Komal Gupta,9876543211,komal@example.com,26,Female,Indore,Madhya Pradesh,452001,Analyst,41000
+1014,Manish Yadav,9011223344,manish@example.com,28,Male,Noida,Uttar Pradesh,201301,Developer,55000
+1015,Swati Pawar,9765123489,swati@example.com,23,Female,Pune,Maharashtra,411004,Tester,39000
+1016,Nikhil Joshi,8899112233,nikhil@example.com,27,Male,Bangalore,Karnataka,560001,Developer,62000
+1017,Riya Sharma,9345678123,riya@example.com,25,Female,Delhi,Delhi,110002,HR,40000
+1018,Deepak More,9988771122,deepak@example.com,33,Male,Nashik,Maharashtra,422002,Manager,70000
+1019,Meena Patil,9123987654,meena@example.com,29,Female,Mumbai,Maharashtra,400002,Accountant,47000
+1020,Sagar Kale,9876123987,sagar@example.com,26,Male,Pune,Maharashtra,411005,Developer,50000
